@@ -5,7 +5,6 @@
 <div align=center>	
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoin0110&langs_count=5&layout=compact&theme=dark)](https://github.com/seoin0110/seoin0110)
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 <!--
 **seoin0110/seoin0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
