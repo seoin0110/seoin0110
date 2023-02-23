@@ -1,9 +1,9 @@
 ### Hi there 👋
 <div align=center>	
-	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoin0110)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoin0110)](https://hits.seeyoufarm.com) 
 </div>
 <div align=center>	
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoin0110&langs_count=5&layout=compact&theme=dark)](https://github.com/seoin0110/seoin0110)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoin0110&langs_count=5&layout=compact&theme=dark)](https://github.com/seoin0110/seoin0110)
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 <!--
