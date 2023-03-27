@@ -2,8 +2,6 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoin0110)](https://hits.seeyoufarm.com)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoin0110&langs_count=6&layout=compact&theme=dark)](https://github.com/seoin0110/seoin0110)
-  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoin0110)](https://solved.ac/seoin0110)
   
   [![CodeForces Profile](https://cf.leed.at?id=hyungchang)](https://codeforces.com/profile/hyungchang)
